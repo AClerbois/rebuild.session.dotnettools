@@ -1,0 +1,21 @@
+{
+    "author": "Adrien Clerbois",
+    "classifications": [
+        "custom/dotnet"
+    ],
+    "name": "Dotnet global tools example for Rebuild",
+    "identity": "Rebuild.SayHello",
+    "shortName": "rebuild.sayhello",
+    "tags": {
+        "language": "C#"
+    },
+    "sourceName": "Rebuild.SayHello",
+    "preferNameDirectory": "true",
+    "symbols":{
+        "commandName": {
+            "type": "parameter",
+            "defaultValue": "commandName",
+            "replaces":"commandName"
+        }
+    }
+}

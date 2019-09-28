@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitReleaseNote.Generator", "GitReleaseNote.Generator\GitReleaseNote.Generator.csproj", "{6008FB3D-41E1-44C4-9B9A-EBFA706121C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitReleaseNote.Generator.Tests", "GitReleaseNote.Generator.Tests\GitReleaseNote.Generator.Tests.csproj", "{F9EC4B9C-B3CF-4A22-AC45-79D3AC1E2326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6008FB3D-41E1-44C4-9B9A-EBFA706121C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6008FB3D-41E1-44C4-9B9A-EBFA706121C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6008FB3D-41E1-44C4-9B9A-EBFA706121C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6008FB3D-41E1-44C4-9B9A-EBFA706121C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EC4B9C-B3CF-4A22-AC45-79D3AC1E2326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EC4B9C-B3CF-4A22-AC45-79D3AC1E2326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EC4B9C-B3CF-4A22-AC45-79D3AC1E2326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EC4B9C-B3CF-4A22-AC45-79D3AC1E2326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CEC296A-3006-40B2-AA24-2A905CEC55EA}
+	EndGlobalSection
+EndGlobal
